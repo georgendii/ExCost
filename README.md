@@ -1,2 +1,0 @@
-# ExCost
-Execution cost
